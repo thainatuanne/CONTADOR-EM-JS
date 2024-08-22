@@ -1,4 +1,4 @@
-<h1>Contador Simples com Javascript.</h1>
+<h1>Contador Simples com JavaScript.</h1>
 
 ## 1 páginas html:
 - contador.html
